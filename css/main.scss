@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
+
+.title{
+    font-family: 'Merriweather', serif;
+}
+
+.text{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+$color1: #010103;
+$color2: #2F3739;
+$color3: #FFFFFB;
+$color4: #727677;
+$color5: #A2976A;
+$color6: #E4E4E4;
+
+$theme-colors: (
+    'color1': $color1,
+    'color2': $color2,
+    'color3': $color3,
+    'color4': $color4,
+    'color5': $color5,
+    'color6': $color6,
+);
+
+header {
+  position: relative;
+  background-color: #727677;
+  height: 75vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #727677;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+$enable-responsive-font-sizes: true !important;
+$enable-rounded: true;
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
