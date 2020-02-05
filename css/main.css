@@ -7,6 +7,10 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.w-45 {
+  width: 45% !important;
+}
+
 header {
   position: relative;
   background-color: #727677;
@@ -43,6 +47,11 @@ header .overlay {
   background-color: #727677;
   opacity: 0.5;
   z-index: 1;
+}
+
+hr.style9 {
+  border-top: 1px dashed #8c8b8b;
+  border-bottom: 1px dashed #fff;
 }
 
 /*!
