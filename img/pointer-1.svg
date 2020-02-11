@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400.1" height="45.1" viewBox="0 0 400.1 45.1">
+  <g id="pointer-1" transform="translate(-0.05 -0.95)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(67)">
+      <circle id="Elipse_1" data-name="Elipse 1" cx="1.8" cy="1.8" r="1.8" transform="translate(329.3 1.2)" fill="none" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+      <path id="Caminho_1" data-name="Caminho 1" d="M327.3,2.8s-42.3-1-64,38" fill="#fff" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+      <circle id="Elipse_2" data-name="Elipse 2" cx="1.8" cy="1.8" r="1.8" transform="translate(259.3 42.2)" fill="none" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+    </g>
+    <g id="Grupo_2" data-name="Grupo 2">
+      <circle id="Elipse_3" data-name="Elipse 3" cx="1.8" cy="1.8" r="1.8" transform="translate(0.3 1.2)" fill="none" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+      <path id="Caminho_2" data-name="Caminho 2" d="M6,2.8s42.3-1,64,38" fill="#fff" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+      <circle id="Elipse_4" data-name="Elipse 4" cx="1.8" cy="1.8" r="1.8" transform="translate(70.3 42.2)" fill="none" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+    </g>
+    <g id="Grupo_5" data-name="Grupo 5" transform="translate(-6)">
+      <circle id="Elipse_5" data-name="Elipse 5" cx="1.8" cy="1.8" r="1.8" transform="translate(166.2 1.2)" fill="none" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line id="Linha_1" data-name="Linha 1" y2="33.6" transform="translate(168 6.7)" fill="none" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+      <circle id="Elipse_6" data-name="Elipse 6" cx="1.8" cy="1.8" r="1.8" transform="translate(166.2 42.2)" fill="none" stroke="#bdc4c9" stroke-miterlimit="10" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
