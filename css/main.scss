@@ -1,13 +1,22 @@
 
+@font-face {
+  font-family: title;
+  src: url(Eveleth-Clean-Regular.otf);
+}
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
 
 .title{
-    font-family: 'Merriweather', serif;
+  font-family: title;
 }
 
 .text{
-    font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', ;
+}
 
+.title-card-info{
+  font-family: 'Merriweather', serif;
 }
 
 $color1: #010103;
