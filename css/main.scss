@@ -71,6 +71,10 @@ hr.style9 {
 	border-bottom: 1px dashed #fff;
 }
 
+.card-img{
+  filter: grayscale(100%) !important;
+}
+
 
 $enable-responsive-font-sizes: true !important;
 $enable-rounded: true;
